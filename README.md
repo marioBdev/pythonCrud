@@ -5,3 +5,5 @@ There will be files imported from a Figma design created at time the UI/UX cours
 I'm just about to decide wich front end interface GUI and the start the software requirements.
 Let's start the project applying the MVC Concept.
 Introducing some concepts in css and saas.
+
+Just about to practice more this CSS structures applying variablkes.
